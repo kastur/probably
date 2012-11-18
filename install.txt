@@ -1,0 +1,10 @@
+Add to bashrc:
+
+export VICARE_LIBRARY_PATH=/home/k/probably/scheme-tools:$VICARE_LIBRARY_PATH
+export VICARE_LIBRARY_PATH=/home/k/probably/scheme-transforms:$VICARE_LIBRARY_PATH
+export VICARE_LIBRARY_PATH=/home/k/probably/cosh:$VICARE_LIBRARY_PATH
+export VICARE_LIBRARY_PATH=/home/k/probably/bher:$VICARE_LIBRARY_PATH
+
+export PATH=/home/k/probably/scheme-tools/bin:$PATH
+export PATH=/home/k/probably/cosh/bin:$PATH
+export PATH=/home/k/probably/bher:$PATH
